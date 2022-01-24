@@ -2,8 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - Studying Computer Science at Bilkent University.
+
 - Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+
 - Trying to build my own start-up.
+
 - Enjoys music, playing guitar.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
