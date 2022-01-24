@@ -7,7 +7,7 @@
 - Enjoys music, playing guitar.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-&nbsp;
+- &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -32,6 +32,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/denizberkantdemirors/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-denizberkantdemirors%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/denizberkantdemirors/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-denizberkantdemirors-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:berkant.demirors@ug.bilkent.edu.tr"><img alt="Email" src="https://img.shields.io/badge/Email-berkant.demirors@ug.bilkent.edu.tr-blue?style=flat-square&logo=gmail"></a>
 </p>
