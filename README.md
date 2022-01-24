@@ -1,6 +1,7 @@
 <h2> Hello there, I'm Deniz. Nice to meet you!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 - Studying Computer Science at Bilkent University.
 
 - Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
