@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- Studying Computer Science at Bilkent University.
+- Graduate Software Engineer with Computer Science degree from Bilkent University.
 
 - Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
@@ -37,5 +37,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/denizberkantdemirors/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-denizberkantdemirors-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:berkant.demirors@ug.bilkent.edu.tr"><img alt="Email" src="https://img.shields.io/badge/Email-berkant.demirors@ug.bilkent.edu.tr-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:denizberkantdemirors@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-denizberkantdemirors@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
